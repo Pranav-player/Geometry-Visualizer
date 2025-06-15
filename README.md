@@ -48,5 +48,10 @@ An interactive educational app built using **SwiftUI in Swift Playgrounds (iPad)
 
 ---
 
+![Image 1](./image1.jpg)
+![Image 2](./image2.jpg)
+![Image 3](./image3.jpg)
+
+
 
 
