@@ -50,31 +50,3 @@ An interactive educational app built using **SwiftUI in Swift Playgrounds (iPad)
 
 
 
-## 🛠️ Future Improvements
-
-- Add support for:
-  - Polygon visualizer (n-gon)
-  - Line & slope grapher
-  - 3D shape previews (with SceneKit or ARKit)
-- Add quiz mode for interactive learning
-- Theme customization
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-MIT License – use freely with attribution.
-
----
-
-## 🙋‍♂️ Author
-
-**Pranav**, built using Swift Playgrounds on iPad.
-
-[LinkedIn](#) | [GitHub](#) | [Email](#)
